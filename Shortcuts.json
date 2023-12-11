@@ -1,44 +1,44 @@
-{
-        {
-            "id": "mptreasury",
-            "name": "Mp Treasury",
-            "url": "https://mptreasury.gov.in/IFMS",
-            "icon": "https://github.com/MrMegh/Shortcuts/blob/main/mptreasury.png?raw=true"
-        },
-        {
-            "id": "challan",
-            "name": "Challan",
-            "url": "https://echallan.mponline.gov.in/",
-            "icon": "https://github.com/MrMegh/Shortcuts/blob/main/challan.png?raw=true"
-        },
-        {
-            "id": "electricity",
-            "name": "Electricity",
-            "url": "https://billing.mpez.co.in/",
-            "icon": "https://github.com/MrMegh/Shortcuts/blob/main/electricity.png?raw=true"
-        },
-        {
-            "id": "nagarnigam",
-            "name": "Nagar Nigam",
-            "url": "https://mpenagarpalika.gov.in:8005/sap/bc/webdynpro/sap/zpt_qpay_new?sap-client=500&sap-language=EN#",
-            "icon": "https://github.com/MrMegh/Shortcuts/blob/main/nagarnigam.png?raw=true"
-        },
-        {
-            "id": "calendar",
-            "name": "Calendar",
-            "url": "https://jabalpur.nic.in/en/document/local-holiday-2020/",
-            "icon": "https://github.com/MrMegh/Shortcuts/blob/main/calendar.png?raw=true"
-        },
-        {
-            "id": "govemail",
-            "name": "Gov Mail",
-            "url": "https://email.gov.in/",
-            "icon": "https://github.com/MrMegh/Shortcuts/blob/main/govemail.png?raw=true"
-        },
-        {
-            "id": "sbi",
-            "name": "SBI",
-            "url": "https://retail.onlinesbi.sbi/retail/login.htm",
-            "icon": "https://github.com/MrMegh/Shortcuts/blob/main/sbi.png?raw=true"
-        }
-}
+[
+    {
+        "id": "mptreasury",
+        "name": "Mp Treasury",
+        "url": "https://mptreasury.gov.in/IFMS",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/mptreasury.png?raw=true"
+    },
+    {
+        "id": "challan",
+        "name": "Challan",
+        "url": "https://echallan.mponline.gov.in/",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/challan.png?raw=true"
+    },
+    {
+        "id": "electricity",
+        "name": "Electricity",
+        "url": "https://billing.mpez.co.in/",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/electricity.png?raw=true"
+    },
+    {
+        "id": "nagarnigam",
+        "name": "Nagar Nigam",
+        "url": "https://mpenagarpalika.gov.in:8005/sap/bc/webdynpro/sap/zpt_qpay_new?sap-client=500&sap-language=EN#",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/nagarnigam.png?raw=true"
+    },
+    {
+        "id": "calendar",
+        "name": "Calendar",
+        "url": "https://jabalpur.nic.in/en/document/local-holiday-2020/",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/calendar.png?raw=true"
+    },
+    {
+        "id": "govemail",
+        "name": "Gov Mail",
+        "url": "https://email.gov.in/",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/govemail.png?raw=true"
+    },
+    {
+        "id": "sbi",
+        "name": "SBI",
+        "url": "https://retail.onlinesbi.sbi/retail/login.htm",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/sbi.png?raw=true"
+    }
+]
