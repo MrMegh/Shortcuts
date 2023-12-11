@@ -1,5 +1,4 @@
 {
-    "apps": [
         {
             "id": "mptreasury",
             "name": "Mp Treasury",
@@ -42,5 +41,4 @@
             "url": "https://retail.onlinesbi.sbi/retail/login.htm",
             "icon": "https://github.com/MrMegh/Shortcuts/blob/main/sbi.png?raw=true"
         }
-    ]
 }
