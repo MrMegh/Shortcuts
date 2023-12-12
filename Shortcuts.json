@@ -8,7 +8,7 @@
     {
         "id": "calendar",
         "name": "Calendar",
-        "url": "https://jabalpur.nic.in/en/document/local-holiday-2020/",
+        "url": "https://diary.mp.gov.in/",
         "icon": "https://github.com/MrMegh/Shortcuts/blob/main/calendar.png?raw=true"
     },
     
@@ -21,7 +21,7 @@
     {
         "id": "nagarnigam",
         "name": "Nagar Nigam",
-        "url": "https://mpenagarpalika.gov.in:8005/sap/bc/webdynpro/sap/zpt_qpay_new?sap-client=500&sap-language=EN#",
+        "url": "https://www.mpenagarpalika.gov.in:8005/sap/bc/webdynpro/sap/zpt_qpay?partner=1000520271#",
         "icon": "https://github.com/MrMegh/Shortcuts/blob/main/nagarnigam.png?raw=true"
     },
     {
@@ -29,6 +29,12 @@
         "name": "Challan",
         "url": "https://echallan.mponline.gov.in/",
         "icon": "https://github.com/MrMegh/Shortcuts/blob/main/challan.png?raw=true"
+    },
+    {
+        "id": "speedpost",
+        "name": "SpeedPost",
+        "url": "https://speedposts.in/",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/speedpost.png?raw=true"
     },
     {
         "id": "sbi",
