@@ -11,7 +11,11 @@
         "url": "https://diary.mp.gov.in/",
         "icon": "https://github.com/MrMegh/Shortcuts/blob/main/calendar.png?raw=true"
     },
-    
+    {   "id": "collector",
+        "name": "Collector Holiday",
+        "url": "https://jabalpur.nic.in/en/document/local-holiday-2020/",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/collector.png?raw=true"
+    },
     {
         "id": "electricity",
         "name": "Electricity",
@@ -32,7 +36,7 @@
     },
     {
         "id": "speedpost",
-        "name": "SpeedPost",
+        "name": "Speed Post",
         "url": "https://speedposts.in/",
         "icon": "https://github.com/MrMegh/Shortcuts/blob/main/speedpost.png?raw=true"
     },
