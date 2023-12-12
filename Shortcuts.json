@@ -51,5 +51,11 @@
         "name": "Gov Mail",
         "url": "https://email.gov.in/",
         "icon": "https://github.com/MrMegh/Shortcuts/blob/main/govemail.png?raw=true"
+    },
+    {
+        "id": "youtube",
+        "name": "YouTube Login",
+        "url": "https://accounts.google.com/o/oauth2/device/usercode?hl=en-IN&enable_delegation=1&pageId=none&flowName=DeviceOAuth",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/youtube.png?raw=true"
     }
 ]
