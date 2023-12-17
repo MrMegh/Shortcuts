@@ -35,6 +35,12 @@
         "icon": "https://github.com/MrMegh/Shortcuts/blob/main/challan.png?raw=true"
     },
     {
+        "id": "numbertracking",
+        "name": "Number Traking",
+        "url": "https://tafcop.sancharsaathi.gov.in/telecomUser/loginPage?logout",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/sim.png?raw=true"
+    },
+    {
         "id": "speedpost",
         "name": "Speed Post",
         "url": "https://speedposts.in/",
