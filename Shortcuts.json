@@ -47,6 +47,12 @@
         "icon": "https://github.com/MrMegh/Shortcuts/blob/main/speedpost.png?raw=true"
     },
     {
+        "id": "aftership",
+        "name": "After Ship",
+        "url": "https://www.aftership.com/track",
+        "icon": "https://github.com/MrMegh/Shortcuts/blob/main/aftership.png?raw=true"
+    },
+    {
         "id": "sbi",
         "name": "SBI",
         "url": "https://retail.onlinesbi.sbi/retail/login.htm",
